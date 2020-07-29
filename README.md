@@ -1,2 +1,2 @@
-# Tower-Defense
-Ma'am I had trouble creating the slingshot but everything else was okay
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
